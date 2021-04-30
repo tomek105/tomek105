@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomasz Lis, student of computer science.
-- 👀 I’m interested in web developing.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML/CSS/JS and JS frameworks.
 - 📫 How to reach me: lisssu14@gmail.com
 
